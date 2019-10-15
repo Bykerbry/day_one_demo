@@ -11,3 +11,8 @@ a:link { /* unvisited link */color: aliceblue; }
 a:visited { /* visited link */color: darkblue; } 
 a:hover { /* mouse over link */color: lightblue; } 
 a:active { /* mouse click link */color: yellow;}
+
+body {
+    color: lightgray;
+    background-color: black;
+}
